@@ -1,0 +1,9 @@
+{
+  "name": "radio-station-id-sample-app",
+  "display_name": "Radio Station ID",
+  "type":"OFF",
+  "description": "An example application to illustrate the usage of GNSDK Radio Station ID APIs",
+  "dependencies": [
+    "/gnsdk/1.2/radio_stations"
+  ]
+}
